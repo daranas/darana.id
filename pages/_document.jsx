@@ -10,8 +10,8 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <meta name="google-site-verification" content="cOErl_-xqSE5_sMRXfDNGqAEv6aFtZv1MC_eJUDOHCA" />
           {/* meta */}
+          <meta name="google-site-verification" content="cOErl_-xqSE5_sMRXfDNGqAEv6aFtZv1MC_eJUDOHCA" />
           <meta name="description" content="DaranaSV is a freelance frontend web developer, web programmer based in Bandung, Indonesia. Focusing on web development with HTML, CSS, JavaScript and PHP." />
           <meta name="keywords" content="indonesia, bandung, freelance, remote, web design, design, web, developer, website, HTML, CSS, JavaScript, Vue, Nuxt, React, jQuery, SCSS, responsive, mobile"/>
           <meta name="author" content="DaranaSV"></meta>
