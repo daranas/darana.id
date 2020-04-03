@@ -30,6 +30,7 @@ class MyDocument extends Document {
           <meta property="og:type" content="website" />
           <meta property="og:image" content="https://darana.id/assets/images/darana.png" />
           <meta name="theme-color" content="#000000" />
+          <link rel="shortcut icon" href="/static/assets/images/logo.png" />
           <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
           <link rel="stylesheet" href="/static/assets/css/darana.min.css" />
         </Head>
