@@ -1,11 +1,9 @@
-import React from 'react'
+import Layout from '../components/layouts'
 
-function Home() {
-  return (
-    <div>
-      Hello world!
-    </div>
-  )
-}
+const Index = props => (
+  <Layout>
+    <h1>Test Ajah</h1>
+  </Layout>
+)
 
-export default Home
+export default Index
