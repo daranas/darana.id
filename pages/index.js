@@ -1,9 +1,9 @@
 import Layout from '../components/layouts'
 
-const Index = props => (
-  <Layout>
-    <h1>Test Ajah</h1>
-  </Layout>
-)
-
-export default Index
+export default function Index () {
+  return (
+    <Layout>
+      <h1>Ini Home</h1>
+    </Layout>
+  )
+}
