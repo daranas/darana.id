@@ -10,7 +10,6 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <title>DaranaSV - Freelance Front End Developer, Web Programmer Based in Bandung, Indonesia</title>
           <meta name="google-site-verification" content="cOErl_-xqSE5_sMRXfDNGqAEv6aFtZv1MC_eJUDOHCA" />
           {/* meta */}
           <meta name="description" content="DaranaSV is a freelance frontend web developer, web programmer based in Bandung, Indonesia. Focusing on web development with HTML, CSS, JavaScript and PHP." />
