@@ -5,7 +5,7 @@ export default function Index () {
   return (
     <Layout>
       <Head>
-        <title>DaranaSV - Freelance Front End Developer, Web Programmer Based in Bandung, Indonesia</title>
+        <title>Portfolio - Freelance Front End Developer, Web Programmer Based in Bandung, Indonesia</title>
       </Head>
       <h1>Portfolio</h1>
     </Layout>
