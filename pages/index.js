@@ -7,7 +7,7 @@ export default function Index () {
       <Head>
         <title>DaranaSV - Freelance Front End Developer, Web Programmer Based in Bandung, Indonesia</title>
       </Head>
-      <h1>Ini Home</h1>
+      <h1>Home</h1>
     </Layout>
   )
 }

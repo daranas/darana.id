@@ -19,7 +19,7 @@ export default function Navbar () {
             <Link href="/"><a className="nav-link">Resume</a></Link>
 					</li>
           <li className="nav-item">
-            <Link href="/about"><a className="nav-link">About</a></Link>
+            <Link href="/portfolio"><a className="nav-link">Portfolio</a></Link>
 					</li>
         </ul>
       </div>
